@@ -16,9 +16,7 @@ How It Works:
 Upon loading the page, the website either uses the user's device location (via geolocation API) or allows the user to manually enter a city or location.
 The app fetches weather data from a weather API and displays the current temperature, weather condition, and a description of the weather.
 The UI updates dynamically based on the weather data, displaying relevant weather icons and information.
-This project demonstrates how to build a practical, real-time application that integrates external APIs to provide useful, location-based data to users.
 
-This description is detailed yet concise, and it clearly outlines the features, technologies, and functionality of the weather prediction website. It is well-suited for a GitHub repository, providing enough context for other developers or users to understand the project quickly.
 
 
 
